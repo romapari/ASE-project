@@ -26,7 +26,7 @@ void segregate(int array[], int n){
 
 int main(){
 
-  int array[100], n, i;
+  int array[50], n, i;
   cout << "Enter number of elements: ";
   cin >> n;
   cout << "\nEnter elements: ";
